@@ -8,4 +8,4 @@ elif(month>9 and month<12):
 elif(month==12 or month==1 or month==2):
     print ("winter")
 else:
-    print ("invalid input")
+    print ("invalid month number")
